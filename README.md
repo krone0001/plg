@@ -1,6 +1,6 @@
 # horror plugins
 
-- [customVoiceMessages](https://dziurwa14.github.io/vendetta-plugins/customVoiceMessages)
+- [customVoiceMessages](https://drained.tk)
 
 ## How to install?
 
